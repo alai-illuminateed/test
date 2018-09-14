@@ -1,5 +1,5 @@
 install:
-	echo "Install command"
+	composer install
   
 start:
 	echo "start docker"
